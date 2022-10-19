@@ -2,5 +2,5 @@
 
 int main(){
     int wtf ;
-    int firt;
+    int firt1;
 }
